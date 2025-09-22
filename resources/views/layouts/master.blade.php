@@ -56,7 +56,7 @@
 
         <!-- Reservation & Booking Form -->
         <section class="testimonials" data-scroll-index="1">
-        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/slider/2.jpg" data-overlay-dark="2">
+        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/all/shine-6.jpg" data-overlay-dark="2">
             <div class="container">
                 <div class="row">
                     <!-- Reservation -->

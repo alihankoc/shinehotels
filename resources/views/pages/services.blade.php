@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-left caption mt-90">
-                    <h5>Discover</h5>
+                    <h5>Apart Hotel Facilities</h5>
                     <h1>Our Services</h1>
                 </div>
             </div>
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="restaurant.html"><img src="{{asset('img')}}/restaurant/1.jpg" alt=""></a>
+                        <a href="restaurant.html"><img src="{{asset('img')}}/rooms/kitchen.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -27,8 +27,8 @@
                             <div class="info">
                                 <h6>Discover</h6>
                             </div>
-                            <h4>The Restaurant</h4>
-                            <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                            <h4>Fully Equipped Kitchen</h4>
+                            <p>Each apartment features a complete kitchen with modern appliances for your convenience. Prepare your own meals and enjoy the comfort of home cooking during your stay in Antalya.</p>
                             <div class="butn-dark"> <a href="restaurant.html"><span>Learn More</span></a> </div>
                         </div>
                     </div>
@@ -41,22 +41,22 @@
                             <div class="info">
                                 <h6>Experiences</h6>
                             </div>
-                            <h4>Spa Center</h4>
-                            <p>Spa center inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                            <h4>Beach Access</h4>
+                            <p>Easy access to Antalya's beautiful beaches, just minutes away from our location. Enjoy the Mediterranean sun and crystal clear waters during your stay.</p>
                             <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/3.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="{{asset('img')}}/general/beach.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/2.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="{{asset('img')}}/general/wifi.webp" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -65,8 +65,8 @@
                             <div class="info">
                                 <h6>Modern</h6>
                             </div>
-                            <h4>Fitness Center</h4>
-                            <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                            <h4>Free WiFi</h4>
+                            <p>High-speed internet connection available throughout the property at no extra cost. Stay connected with your loved ones and work remotely if needed.</p>
                             <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
                         </div>
                     </div>
@@ -79,15 +79,53 @@
                             <div class="info">
                                 <h6>Experiences</h6>
                             </div>
-                            <h4>The Health Club & Pool</h4>
-                            <p>The health club & pool at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                            <h4>Tour Assistance</h4>
+                            <p>Personal assistance with local tour bookings and recommendations for the best Antalya experience. Our friendly staff will help you discover the hidden gems of the city.</p>
                             <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/1.jpg" alt=""></a>
+                        <a href="spa-wellness.html"><img src="{{asset('img')}}/general/tour-assist.jpeg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
+                    <div class="img left">
+                        <a href="#"><img src="{{asset('img')}}/general/airport-transfer.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
+                    <div class="content">
+                        <div class="cont text-left">
+                            <div class="info">
+                                <h6>Transport</h6>
+                            </div>
+                            <h4>Airport Transfer</h4>
+                            <p>Comfortable airport transfer service to make your arrival and departure hassle-free. Our professional drivers ensure a safe and pleasant journey to and from Antalya Airport.</p>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 bg-cream p-0 order2 valign animate-box" data-animate-effect="fadeInLeft">
+                    <div class="content">
+                        <div class="cont text-left">
+                            <div class="info">
+                                <h6>Convenience</h6>
+                            </div>
+                            <h4>Free Parking</h4>
+                            <p>Complimentary parking space available for all our guests during their stay. No need to worry about finding parking spots in the city center.</p>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
+                    <div class="img">
+                        <a href="#"><img src="{{asset('img')}}/general/parking.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -113,7 +151,7 @@
                     <div class="owl-carousel owl-theme">
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/2.jpg" alt="">
+                            <img src="{{asset('img')}}/general/airport-transfer.jpg" alt="">
                             <div class="desc">
                                 <div class="name">Airport Transfer</div>
                                 <ul class="list-unstyled list">
@@ -125,7 +163,7 @@
                         </div>
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/4.jpg" alt="">
+                            <img src="{{asset('img')}}/general/tour-assist.jpeg" alt="">
                             <div class="desc">
                                 <div class="name">Tour Assistance</div>
                                 <ul class="list-unstyled list">

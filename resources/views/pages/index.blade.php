@@ -258,7 +258,7 @@
                     <div class="owl-carousel owl-theme">
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/2.jpg" alt="">
+                            <img src="{{asset('img')}}/general/airport-transfer.jpg" alt="">
                             <div class="desc">
                                 <div class="name">Airport Transfer</div>
                                 <ul class="list-unstyled list">
@@ -270,7 +270,7 @@
                         </div>
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/4.jpg" alt="">
+                            <img src="{{asset('img')}}/general/tour-assist.jpeg" alt="">
                             <div class="desc">
                                 <div class="name">Tour Assistance</div>
                                 <ul class="list-unstyled list">
@@ -350,7 +350,7 @@
 
     <!-- Testiominals -->
     <section class="testimonials">
-        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/slider/2.jpg" data-overlay-dark="3">
+        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/general/shine-2.jpg" data-overlay-dark="3">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 offset-md-2">
@@ -404,7 +404,7 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="restaurant.html"><img src="{{asset('img')}}/restaurant/1.jpg" alt=""></a>
+                        <a href="#"><img src="{{asset('img')}}/all/B-1-5.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -415,7 +415,7 @@
                             </div>
                             <h4>Kitchen Facilities</h4>
                             <p>Each apartment features a fully equipped kitchen with modern appliances, allowing you to prepare your own meals. This provides the perfect balance between comfort and convenience for your stay in Antalya.</p>
-                            <div class="butn-dark"> <a href="restaurant.html"><span>Learn More</span></a> </div>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -429,20 +429,20 @@
                             </div>
                             <h4>Beach Access</h4>
                             <p>Enjoy easy access to Antalya's beautiful beaches just minutes away from our location. Our apart hotel is perfectly positioned for beach lovers and water sports enthusiasts.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/3.jpg" alt=""></a>
+                        <a href="#"><img src="{{asset('img')}}/general/beach.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/2.jpg" alt=""></a>
+                        <a href="#"><img src="{{asset('img')}}/general/tour-assist.jpeg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -453,7 +453,7 @@
                             </div>
                             <h4>Tour Assistance</h4>
                             <p>Our friendly staff provides personal assistance with local tour bookings and recommendations. Discover the best of Antalya with our expert guidance and local knowledge.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -467,13 +467,13 @@
                             </div>
                             <h4>Airport Transfer</h4>
                             <p>Convenient airport transfer service to make your arrival and departure hassle-free. Our professional drivers ensure a comfortable journey to and from Antalya Airport.</p>
-                            <div class="butn-dark"> <a href="spa-wellness.html"><span>Learn More</span></a> </div>
+                            <div class="butn-dark"> <a href="#"><span>Learn More</span></a> </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                     <div class="img">
-                        <a href="spa-wellness.html"><img src="{{asset('img')}}/spa/1.jpg" alt=""></a>
+                        <a href="#"><img src="{{asset('img')}}/general/airport-transfer.jpg" alt=""></a>
                     </div>
                 </div>
             </div>

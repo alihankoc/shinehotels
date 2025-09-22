@@ -21,63 +21,146 @@
                 </div>
                 <!-- 3 columns -->
                 <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/slider/7.jpg" title="" class="img-zoom">
+                    <a href="{{asset('img')}}/all/shine-1.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/slider/7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/slider/5.jpg" title="" class="img-zoom">
+                    <a href="{{asset('img')}}/all/shine-2.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/slider/5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/slider/4.jpg" title="" class="img-zoom">
+                    <a href="{{asset('img')}}/all/shine-3.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/slider/4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 2 columns -->
-                <div class="col-md-6 gallery-item">
-                    <a href="{{asset('img')}}/slider/2.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/slider/2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <a href="{{asset('img')}}/slider/1.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/slider/1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- 3 columns -->
-                <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/rooms/8.jpg" title="" class="img-zoom">
-                        <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/rooms/8.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/rooms/5.jpg" title="" class="img-zoom">
+                    <a href="{{asset('img')}}/all/shine-4.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/rooms/5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 gallery-item">
-                    <a href="{{asset('img')}}/rooms/10.jpg" title="" class="img-zoom">
+                    <a href="{{asset('img')}}/all/shine-6.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
-                            <div class="gallery-img"> <img src="{{asset('img')}}/rooms/10.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                         </div>
                     </a>
                 </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/shine-7.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/shine-7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-6.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-5.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-4.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-3.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-3.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-2.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-4-1.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-4-1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-2-7.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-2-7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-1-6.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-1-6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/g-1-1.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/g-1-1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/F-4-6.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/F-4-6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/F-4-1.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/F-4-1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/F-3-9.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/F-3-9.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/F-1-10.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/F-1-10.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 gallery-item">
+                    <a href="{{asset('img')}}/all/B-1-2.jpg" title="" class="img-zoom">
+                        <div class="gallery-box">
+                            <div class="gallery-img"> <img src="{{asset('img')}}/all/B-1-2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        </div>
+                    </a>
+                </div>
+    
             </div>
         </div>
     </section>

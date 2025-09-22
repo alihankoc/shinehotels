@@ -70,7 +70,7 @@
                     <div class="owl-carousel owl-theme">
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/2.jpg" alt="">
+                            <img src="{{asset('img')}}/general/airport-transfer.jpg" alt="">
                             <div class="desc">
                                 <div class="name">Airport Transfer</div>
                                 <ul class="list-unstyled list">
@@ -82,7 +82,7 @@
                         </div>
 
                         <div class="pricing-card">
-                            <img src="{{asset('img')}}/pricing/4.jpg" alt="">
+                            <img src="{{asset('img')}}/general/tour-assist.jpeg" alt="">
                             <div class="desc">
                                 <div class="name">Tour Assistance</div>
                                 <ul class="list-unstyled list">
@@ -98,7 +98,7 @@
         </div>
     </section>
     <section class="testimonials">
-        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/slider/2.jpg"
+        <div class="background bg-img bg-fixed section-padding pb-0" data-background="{{asset('img')}}/all/shine-d-04.jpg"
             data-overlay-dark="3">
             <div class="container">
                 <div class="row">

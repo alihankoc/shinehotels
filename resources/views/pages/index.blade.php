@@ -110,7 +110,7 @@
         </div>
     </section>
     <!-- Rooms -->
-    <section class="rooms1 section-padding bg-cream" data-scroll-index="1">
+    <!-- <section class="rooms1 section-padding bg-cream" data-scroll-index="1">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -236,7 +236,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Pricing -->
     <section class="pricing section-padding bg-blck">
         <div class="container">

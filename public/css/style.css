@@ -386,7 +386,7 @@ blockquote cite:before {
 .owl-carousel .owl-nav button.owl-next, 
 .owl-carousel .owl-nav button.owl-prev, 
 .owl-carousel button.owl-dot {
-    outline: none;
+    outline: none;
 }
 
 /* background & color */
@@ -5088,7 +5088,7 @@ button.mfp-arrow {
 }
 .footer-explore-list li a:hover {
   padding-left: 15px;
-  color: #aa8453);
+  color: #aa8453;
 }
 .footer-explore-list li a:before {
   position: absolute;
